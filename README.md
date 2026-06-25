@@ -78,12 +78,4 @@ bonus-banco-de-dados/                Material de referência para trocar
 - A devolução marca o livro como disponível novamente e fecha o
   empréstimo (registra a data de devolução).
 
-## Observação sobre este ambiente
 
-Este código foi escrito e revisado manualmente, mas o ambiente onde
-foi gerado só tem o Java Runtime (JRE) instalado, sem o compilador
-(`javac`) — por isso não foi possível compilar e rodar aqui para
-confirmar 100%. A sintaxe foi conferida com cuidado (chaves e
-parênteses balanceados, imports corretos), mas se ao compilar na sua
-máquina aparecer algum erro, me envie a mensagem de erro que eu
-corrijo na hora.
